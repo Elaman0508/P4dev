@@ -1,2 +1,2 @@
-
+print('Askar')
 print("Marlis")
